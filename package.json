@@ -1,0 +1,37 @@
+{
+  "name": "slscognitoapi",
+  "version": "1.0.0",
+  "description": "Serverless Framework and AWS cognito auth function",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimeshc64/slsFrameworkAWSCognitoAuthApi.git"
+  },
+  "keywords": [
+    "aws",
+    "sls",
+    "cognito",
+    "api",
+    "auth"
+  ],
+  "author": "Nimesh Chathuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimeshc64/slsFrameworkAWSCognitoAuthApi/issues"
+  },
+  "homepage": "https://github.com/nimeshc64/slsFrameworkAWSCognitoAuthApi#readme",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.2.5",
+    "async": "^3.2.0",
+    "aws-sdk": "^2.636.0",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
