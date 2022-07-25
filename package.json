@@ -25,7 +25,7 @@
   "homepage": "https://github.com/nimeshc64/slsFrameworkAWSCognitoAuthApi#readme",
   "dependencies": {
     "amazon-cognito-identity-js": "^3.2.5",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "aws-sdk": "^2.636.0",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.7"
