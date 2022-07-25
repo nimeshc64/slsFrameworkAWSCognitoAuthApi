@@ -27,7 +27,7 @@
     "amazon-cognito-identity-js": "^3.2.5",
     "async": "^3.2.2",
     "aws-sdk": "^2.814.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.7"
   },
   "devDependencies": {
